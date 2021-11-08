@@ -1,7 +1,6 @@
 👋 Hi, I’m @ramsus411
 👀 I’m interested in full stack development.
-🌱 I’m currently learning Python, .NET, Azure,
-        and Network Admin.
+🌱 I’m currently learning Python, .NET, Azure and Network Admin.
 💞️ I’m looking to collaborate on Projects.
 📫 How to reach me - update soon.
 
